@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Blox | My Site</title>
+    <link>https://ahmedkusei.github.io/en/tags/hugo-blox/</link>
+      <atom:link href="https://ahmedkusei.github.io/en/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Blox</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ahmedkusei.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Hugo Blox</title>
+      <link>https://ahmedkusei.github.io/en/tags/hugo-blox/</link>
+    </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://ahmedkusei.github.io/en/post/01/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ahmedkusei.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;На этой неделе было довольно насыщенно:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Закрыл несколько лабораторных по программированию, постепенно набираю опыт.&lt;/li&gt;
+&lt;li&gt;Разбирался с архитектурой вычислительных систем, оказалось интереснее, чем думал.&lt;/li&gt;
+&lt;li&gt;Начал разбираться с основами Git, осознал, насколько это важный инструмент для разработчиков.&lt;/li&gt;
+&lt;li&gt;В свободное время изучал новые подходы к решению алгоритмических задач, решал задачи на Codeforces.&lt;/li&gt;
+&lt;li&gt;Посетил встречу студенческого IT-сообщества, пообщался с единомышленниками и узнал много нового.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
