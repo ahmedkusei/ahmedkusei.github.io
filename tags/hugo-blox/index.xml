@@ -5,12 +5,29 @@
     <link>https://ahmedkusei.github.io/tags/hugo-blox/</link>
       <atom:link href="https://ahmedkusei.github.io/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Blox</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 29 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ahmedkusei.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo Blox</title>
       <link>https://ahmedkusei.github.io/tags/hugo-blox/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://ahmedkusei.github.io/post/03/</link>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ahmedkusei.github.io/post/03/</guid>
+      <description>&lt;h1 id=&#34;-неделя-глазами-студента-computer-science-1-курс&#34;&gt;🧠 Неделя глазами студента Computer Science, 1 курс&lt;/h1&gt;
+&lt;p&gt;Неделя пролетела незаметно, но продуктивно:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;👨‍💻 На программировании разобрали основы C++ — теперь пишем свои первые консольные приложения.&lt;/li&gt;
+&lt;li&gt;🧮 В дискретной математике начали изучать логические выражения и базовые операции над множествами.&lt;/li&gt;
+&lt;li&gt;💻 Лабораторка по информатике: учились работать с Git и командной строкой — теперь &lt;code&gt;commit&lt;/code&gt; и &lt;code&gt;push&lt;/code&gt; звучат не так страшно.&lt;/li&gt;
+&lt;li&gt;🤝 В перерывах знакомились с ребятами с других потоков, обсуждали любимые IDE и мемы про программистов.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Каждый день — что-то новое, но именно в этом и кайф. Двигаемся дальше, шаг за шагом — к реальному коду и крутым проектам! 🚀&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
