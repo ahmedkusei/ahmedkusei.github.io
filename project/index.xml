@@ -5,7 +5,7 @@
     <link>https://ahmedkusei.github.io/project/</link>
       <atom:link href="https://ahmedkusei.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ahmedkusei.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Projects</title>
@@ -13,27 +13,39 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://ahmedkusei.github.io/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ahmedkusei.github.io/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://ahmedkusei.github.io/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ahmedkusei.github.io/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://ahmedkusei.github.io/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ahmedkusei.github.io/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Hugo</title>
+      <link>https://ahmedkusei.github.io/project/hugo/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ahmedkusei.github.io/project/hugo/</guid>
+      <description>&lt;p&gt;Современным научным работникам важно иметь собственное пространство для презентации своих исследований, публикаций, достижений и проектов. Одним из наиболее удобных и функциональных решений является создание собственного сайта с помощью Hugo и специализированной темы Academic.&lt;/p&gt;
+&lt;h2 id=&#34;почему-hugo-academic&#34;&gt;Почему Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;Тема Hugo Academic (ныне Academic Theme или Wowchemy) была разработана специально для научного и академического сообщества. Это мощный инструмент, который позволяет быстро и просто создать профессиональный веб-сайт с четко структурированным контентом.&lt;/p&gt;
+&lt;h3 id=&#34;основные-преимущества&#34;&gt;Основные преимущества:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Простота и удобство&lt;/strong&gt;: Не требует глубоких знаний веб-разработки.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Адаптивный дизайн&lt;/strong&gt;: Хорошо выглядит на любых устройствах, от мобильных телефонов до широкоформатных экранов.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Поддержка публикаций&lt;/strong&gt;: Простая интеграция списка публикаций с возможностью фильтрации.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SEO-оптимизация&lt;/strong&gt;: Сайт автоматически адаптирован под требования поисковых систем.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Расширяемость&lt;/strong&gt;: Большой выбор виджетов и плагинов.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;возможности-сайта&#34;&gt;Возможности сайта&lt;/h2&gt;
+&lt;p&gt;Используя Hugo Academic, вы можете легко создать следующие разделы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Личная информация и резюме&lt;/strong&gt;: Краткая биография, образование и профессиональный опыт.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Публикации&lt;/strong&gt;: Возможность удобного размещения публикаций с аннотациями и ссылками.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Проекты&lt;/strong&gt;: Описание текущих и завершённых исследовательских проектов.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Блог&lt;/strong&gt;: Возможность делиться новостями, мыслями, обзорами и опытом.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Контактные данные&lt;/strong&gt;: Простое размещение форм обратной связи и контактной информации.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;советы-по-наполнению-сайта&#34;&gt;Советы по наполнению сайта&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Регулярно обновляйте раздел публикаций и проектов.&lt;/li&gt;
+&lt;li&gt;Используйте высококачественные изображения и диаграммы для улучшения восприятия информации.&lt;/li&gt;
+&lt;li&gt;Пишите короткие и ясные тексты, избегайте избыточности.&lt;/li&gt;
+&lt;li&gt;Активно используйте внутренние ссылки для улучшения навигации и SEO-показателей.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Создание собственного сайта на Hugo Academic — это возможность повысить вашу узнаваемость в научном сообществе и предоставить коллегам и потенциальным партнерам удобный доступ к вашим материалам.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
